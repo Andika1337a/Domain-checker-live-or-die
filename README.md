@@ -37,7 +37,7 @@
 3. **Jalankan Script**:
    Simpan script di atas sebagai `domain_checker.py` dan jalankan menggunakan Python:
    ```bash
-   python domain_checker.py
+   python Pengecek_handal.py
    ```
 
 ### Contoh Output:
